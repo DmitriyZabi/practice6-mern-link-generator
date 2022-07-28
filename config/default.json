@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "SecretKey",
+  "mongoUri": "mongodb+srv://Zabivalkin:Gohlink123@cluster0.sdvh5.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
